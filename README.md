@@ -21,8 +21,8 @@ Este proyecto es una API para la gestión de usuarios, desarrollada utilizando A
 
 1. **Clona el Repositorio**:
    ```bash
-   git clone https://tu-repositorio.git
-   cd nombre-del-repositorio
+   git clone https://github.com/holas1356/Test1-xUnit.git
+   cd test1-xUnit
    ```
 2. **Restaurar Dependencias**:
      ```bash
@@ -32,7 +32,7 @@ Este proyecto es una API para la gestión de usuarios, desarrollada utilizando A
      ```bash
    dotnet run
    ```
-4. **Probar la API**: Accede a https://localhost:5001/api/users para obtener la lista de usuarios.
+4. **Probar la API**: Accede a https://localhost:5153/api/users para obtener la lista de usuarios.
 
 ## Pruebas Unitarias
 
