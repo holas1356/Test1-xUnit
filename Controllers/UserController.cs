@@ -11,7 +11,7 @@ namespace UserManagmentApi.Controllers
         private static 
         List<User> users = new List<User>
         {
-    new User { Id = 1, Name = "John Doe", Email = "johndoe@example.com" },
+    new User { Id = 1, Name = "Samuel", Email = "johndoe@example.com" },
     new User { Id = 2, Name = "Jane Smith", Email = "janesmith@example.com" },
     new User { Id = 3, Name = "Alice Johnson", Email = "alice.johnson@example.com" },
     new User { Id = 4, Name = "Michael Brown", Email = "michael.brown@example.com" },
